@@ -11,7 +11,6 @@
   
  <hr/>
 
-<h3 align="left">Skills</h3>
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="60" fill="#F4F2ED"/>
 <mask id="mask0_217_245" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="28" width="200" height="200">
